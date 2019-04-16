@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/VehicleRoutingProblemJavaSolver.iml" filepath="$PROJECT_DIR$/.idea/VehicleRoutingProblemJavaSolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrpjs/vrpjs.iml" filepath="$PROJECT_DIR$/vrpjs/vrpjs.iml" />
+    </modules>
+  </component>
+</project>
