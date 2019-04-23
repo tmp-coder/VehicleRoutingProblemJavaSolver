@@ -2,230 +2,225 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb22e8e-6708-42ac-b951-488fde9faabd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_1.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_11.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_12.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_13.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_14.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_15.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_16.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_17.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_18.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_19.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_2.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_20.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_3.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_4.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_6.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_8.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Golden_9.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Li_21.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Li_22.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Li_23.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Li_24.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Li_25.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Li_26.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Li_27.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Li_28.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Li_29.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Li_30.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Li_31.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/Li_32.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/M-n101-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/M-n121-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/M-n151-k12.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/M-n200-k16.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/M-n200-k17.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n1001-k43.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n101-k25.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n106-k14.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n110-k13.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n115-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n120-k6.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n125-k30.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n129-k18.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n134-k13.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n139-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n143-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n148-k46.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n153-k22.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n157-k13.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n162-k11.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n167-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n172-k51.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n176-k26.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n181-k23.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n186-k15.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n190-k8.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n195-k51.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n200-k36.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n204-k19.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n209-k16.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n214-k11.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n219-k73.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n223-k34.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n228-k23.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n233-k16.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n237-k14.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n242-k48.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n247-k50.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n251-k28.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n256-k16.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n261-k13.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n266-k58.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n270-k35.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n275-k28.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n280-k17.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n284-k15.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n289-k60.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n294-k50.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n298-k31.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n303-k21.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n308-k13.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n313-k71.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n317-k53.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n322-k28.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n327-k20.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n331-k15.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n336-k84.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n344-k43.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n351-k40.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n359-k29.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n367-k17.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n376-k94.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n384-k52.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n393-k38.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n401-k29.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n411-k19.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n420-k130.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n429-k61.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n439-k37.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n449-k29.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n459-k26.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n469-k138.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n480-k70.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n491-k59.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n502-k39.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n513-k21.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n524-k153.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n536-k96.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n548-k50.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n561-k42.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n573-k30.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n586-k159.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n599-k92.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n613-k62.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n627-k43.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n641-k35.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n655-k131.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n670-k130.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n685-k75.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n701-k44.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n716-k35.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n733-k159.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n749-k98.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n766-k71.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n783-k48.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n801-k40.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n819-k171.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n837-k142.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n856-k95.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n876-k59.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n895-k37.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n916-k207.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n936-k151.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n957-k87.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/big/X-n979-k58.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n32-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n33-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n33-k6.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n34-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n36-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n37-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n37-k6.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n38-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n39-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n39-k6.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n44-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n45-k6.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n45-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n46-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n48-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n53-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n54-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n55-k9.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n60-k9.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n61-k9.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n62-k8.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n63-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n63-k9.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n64-k9.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n65-k9.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n69-k9.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/A-n80-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n31-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n34-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n35-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n38-k6.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n39-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n41-k6.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n43-k6.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n44-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n45-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n45-k6.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n50-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n50-k8.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n51-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n52-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n56-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n57-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n57-k9.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n63-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n64-k9.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n66-k9.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n67-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n68-k9.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/B-n78-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n101-k4.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n16-k8.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n19-k2.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n20-k2.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n21-k2.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n22-k2.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n22-k8.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n23-k8.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n40-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n45-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n50-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n50-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n50-k8.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n51-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n55-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n55-k15.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n55-k7.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n55-k8.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n60-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n60-k15.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n65-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n70-k10.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n76-k4.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark/small/P-n76-k5.vrp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/CVRProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/ProblemReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/VRPLibReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vrpjs/src/test/java/GYM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vrpjs/vrpjs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_1.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_11.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_12.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_13.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_14.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_15.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_16.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_17.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_18.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_19.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_2.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_20.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_3.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_4.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_6.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_8.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Golden_9.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Li_21.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Li_22.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Li_23.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Li_24.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Li_25.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Li_26.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Li_27.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Li_28.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Li_29.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Li_30.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Li_31.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/Li_32.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/M-n101-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/M-n121-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/M-n151-k12.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/M-n200-k16.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/M-n200-k17.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n1001-k43.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n101-k25.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n106-k14.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n110-k13.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n115-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n120-k6.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n125-k30.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n129-k18.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n134-k13.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n139-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n143-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n148-k46.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n153-k22.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n157-k13.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n162-k11.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n167-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n172-k51.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n176-k26.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n181-k23.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n186-k15.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n190-k8.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n195-k51.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n200-k36.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n204-k19.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n209-k16.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n214-k11.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n219-k73.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n223-k34.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n228-k23.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n233-k16.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n237-k14.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n242-k48.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n247-k50.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n251-k28.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n256-k16.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n261-k13.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n266-k58.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n270-k35.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n275-k28.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n280-k17.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n284-k15.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n289-k60.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n294-k50.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n298-k31.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n303-k21.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n308-k13.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n313-k71.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n317-k53.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n322-k28.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n327-k20.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n331-k15.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n336-k84.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n344-k43.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n351-k40.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n359-k29.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n367-k17.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n376-k94.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n384-k52.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n393-k38.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n401-k29.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n411-k19.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n420-k130.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n429-k61.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n439-k37.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n449-k29.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n459-k26.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n469-k138.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n480-k70.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n491-k59.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n502-k39.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n513-k21.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n524-k153.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n536-k96.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n548-k50.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n561-k42.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n573-k30.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n586-k159.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n599-k92.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n613-k62.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n627-k43.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n641-k35.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n655-k131.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n670-k130.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n685-k75.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n701-k44.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n716-k35.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n733-k159.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n749-k98.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n766-k71.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n783-k48.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n801-k40.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n819-k171.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n837-k142.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n856-k95.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n876-k59.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n895-k37.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n916-k207.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n936-k151.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n957-k87.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/big/X-n979-k58.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n32-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n33-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n33-k6.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n34-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n36-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n37-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n37-k6.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n38-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n39-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n39-k6.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n44-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n45-k6.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n45-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n46-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n48-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n53-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n54-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n55-k9.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n60-k9.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n61-k9.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n62-k8.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n63-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n63-k9.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n64-k9.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n65-k9.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n69-k9.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/A-n80-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n31-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n34-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n35-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n38-k6.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n39-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n41-k6.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n43-k6.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n44-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n45-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n45-k6.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n50-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n50-k8.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n51-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n52-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n56-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n57-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n57-k9.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n63-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n64-k9.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n66-k9.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n67-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n68-k9.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/B-n78-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n101-k4.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n16-k8.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n19-k2.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n20-k2.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n21-k2.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n22-k2.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n22-k8.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n23-k8.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n40-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n45-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n50-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n50-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n50-k8.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n51-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n55-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n55-k15.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n55-k7.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n55-k8.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n60-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n60-k15.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n65-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n70-k10.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n76-k4.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark/small/P-n76-k5.vrp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vrpjs/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vrpjs/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/ProblemReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/ProblemReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/VRPLibReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/VRPLibReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vrpjs/vrpjs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vrpjs/vrpjs.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/vrpjs/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -247,41 +242,59 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/CVRProblem.java">
+        <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1036">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="121">
+              <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#1537#1538#0" expanded="true" />
-                <element signature="e#1582#1583#0" expanded="true" />
-                <element signature="e#1501#1502#0" expanded="true" />
-                <element signature="e#1537#1538#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/VRPSolver.java">
+        <entry file="file://$PROJECT_DIR$/output/X.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-              <folding>
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1669" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/Li.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/Golden.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/benchmark/Li/Li_21.vrp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-21288" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/config/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -289,8 +302,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/VRPLibReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="94" column="22" lean-forward="true" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
+            <state relative-caret-position="141">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3928#3929#0" expanded="true" />
+                <element signature="e#3952#3953#0" expanded="true" />
+                <element signature="e#4042#4043#0" expanded="true" />
+                <element signature="e#4066#4067#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/jsprit/example/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="37" column="23" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -299,41 +328,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Customer.java">
+        <entry file="file://$PROJECT_DIR$/benchmark/Golden/Golden_1.vrp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-              <folding>
-                <element signature="e#538#539#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#633#634#0" expanded="true" />
-                <element signature="e#604#605#0" expanded="true" />
-                <element signature="e#637#638#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/benchmark/big/X-n749-k98.vrp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/benchmark/small/P-n101-k4.vrp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/ProblemReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -345,6 +343,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Singleton" />
       </list>
     </option>
   </component>
@@ -354,16 +353,27 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/vrpjs/pom.xml" />
-        <option value="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/ProblemReader.java" />
         <option value="$PROJECT_DIR$/vrpjs/src/test/java/GYM.java" />
         <option value="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/GreedySolver.java" />
         <option value="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Vehicle.java" />
         <option value="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Customer.java" />
         <option value="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/CVRProblem.java" />
-        <option value="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/VRPLibReader.java" />
         <option value="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/VRPSolver.java" />
+        <option value="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/TabuSearchSolver.java" />
+        <option value="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/JspritConsole.java" />
+        <option value="$PROJECT_DIR$/benchmark/small/A-n32-k5.vrp" />
+        <option value="$PROJECT_DIR$/benchmark/big/X-n1001-k43.vrp" />
+        <option value="$PROJECT_DIR$/vrpjs/src/main/java/tmp.java" />
+        <option value="$PROJECT_DIR$/vrpjs/src/main/java/jsprit/example/JspritConsole.java" />
+        <option value="$PROJECT_DIR$/vrpjs/src/main/java/jsprit/example/ImportFromFile.java" />
+        <option value="$PROJECT_DIR$/vrpjs/src/main/java/jsprit/example/Utils.java" />
+        <option value="$PROJECT_DIR$/vrpjs/pom.xml" />
         <option value="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Solution.java" />
+        <option value="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/ProblemReader.java" />
+        <option value="$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/VRPLibReader.java" />
+        <option value="$PROJECT_DIR$/vrpjs/src/main/java/config/Config.java" />
+        <option value="$PROJECT_DIR$/vrpjs/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -380,6 +390,9 @@
     <option name="width" value="2696" />
     <option name="height" value="1664" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -395,6 +408,11 @@
             <path>
               <item name="VehicleRoutingProblemJavaSolver" type="b2602c69:ProjectViewProjectNode" />
               <item name="VehicleRoutingProblemJavaSolver" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VehicleRoutingProblemJavaSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VehicleRoutingProblemJavaSolver" type="462c0819:PsiDirectoryNode" />
               <item name="vrpjs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -417,43 +435,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VehicleRoutingProblemJavaSolver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VehicleRoutingProblemJavaSolver" type="462c0819:PsiDirectoryNode" />
-              <item name="vrpjs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vrp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VehicleRoutingProblemJavaSolver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VehicleRoutingProblemJavaSolver" type="462c0819:PsiDirectoryNode" />
-              <item name="vrpjs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VehicleRoutingProblemJavaSolver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VehicleRoutingProblemJavaSolver" type="462c0819:PsiDirectoryNode" />
-              <item name="vrpjs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VehicleRoutingProblemJavaSolver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VehicleRoutingProblemJavaSolver" type="462c0819:PsiDirectoryNode" />
-              <item name="vrpjs" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VehicleRoutingProblemJavaSolver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VehicleRoutingProblemJavaSolver" type="462c0819:PsiDirectoryNode" />
-              <item name="vrpjs" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -466,7 +447,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -493,7 +474,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GYM.testPattern">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ImportFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jsprit.example.ImportFromFile" />
+      <module name="vrpjs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jsprit.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JspritConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jsprit.example.JspritConsole" />
+      <module name="vrpjs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jsprit.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="vrpjs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GYM" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="vrpjs" />
       <option name="PACKAGE_NAME" value="" />
@@ -514,13 +528,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.JspritConsole" />
+      <item itemvalue="Application.ImportFromFile" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.GYM" />
       <item itemvalue="JUnit.GYM.testPattern" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GYM.testPattern" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.JspritConsole" />
+        <item itemvalue="Application.ImportFromFile" />
         <item itemvalue="JUnit.GYM" />
+        <item itemvalue="JUnit.GYM.testPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -551,7 +571,11 @@
       <updated>1555334416254</updated>
       <workItem from="1555334417639" duration="9319000" />
       <workItem from="1555345791415" duration="3790000" />
-      <workItem from="1555418088814" duration="17906000" />
+      <workItem from="1555418088814" duration="18338000" />
+      <workItem from="1555509487351" duration="672000" />
+      <workItem from="1555682362437" duration="21403000" />
+      <workItem from="1555849401985" duration="15993000" />
+      <workItem from="1555942557611" duration="11043000" />
     </task>
     <servers />
   </component>
@@ -583,30 +607,43 @@
     <history-entry file="GYM_testPattern - 2019.04.16 at 01h 19m 48s.xml">
       <configuration name="GYM.testPattern" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="GYM - 2019.04.19 at 22h 21m 02s.xml">
+      <configuration name="GYM" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31015000" />
+    <option name="totallyTimeSpent" value="80558000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49933776" visible="true" weight="0.25699168" />
-      <window_info id="Structure" order="1" sideWeight="0.50066227" side_tool="true" visible="true" weight="0.25699168" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6370192" visible="true" weight="0.26757368" />
+      <window_info id="Structure" order="1" sideWeight="0.36298078" side_tool="true" visible="true" weight="0.26757368" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50066227" side_tool="true" weight="0.25699168" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32980132" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32980132" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44900662" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32980132" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32980132" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32980132" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32980132" />
+      <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.32980132" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -636,155 +673,300 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/ProblemReader.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Solution.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Solution.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/vrpjs/src/main/java/Main.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/VRPLibReader.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/VRPLibReader.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>dp[(1&lt;&lt;4)-1][3]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dp[15][3]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dp[15][2]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dp[15][1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dp[15][0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.computeCost()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ast =0;
+                for(int i=0 ; i&lt; routes.size() ; ++i){
+                    if(dp[S][last]+Customer.dist())
+                }</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res.subList(1,31)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rawData</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/benchmark/big/X-n101-k25.vrp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/benchmark/small/A-n32-k5.vrp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/benchmark/small/A-n34-k5.vrp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/benchmark/small/A-n33-k5.vrp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/benchmark/small/A-n44-k7.vrp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/benchmark/big/M-n121-k7.vrp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/benchmark/big/M-n101-k10.vrp">
+    <entry file="file://$PROJECT_DIR$/vrpjs/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="798">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="27" selection-end-line="51" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/benchmark/big/X-n110-k13.vrp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/test/zzt/vrp/VRPLibReaderTest.java" />
-    <entry file="file://$PROJECT_DIR$/vrpjs/src/test/java/GYM.java">
+    <entry file="file://$PROJECT_DIR$/benchmark/big/Golden_1.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/big/Li_22.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/big/M-n200-k16.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/small/P-n60-k10.vrp" />
+    <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="57" />
+        <state relative-caret-position="272">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vrpjs/pom.xml">
+    <entry file="file://$PROJECT_DIR$/benchmark/small/P-n76-k5.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/small/P-n101-k4.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/big/M-n101-k10.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/big/M-n121-k7.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/big/M-n151-k12.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/big/X-n270-k35.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/big/X-n336-k84.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/big/X-n344-k43.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/big/X-n367-k17.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/big/X-n393-k38.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/big/X-n411-k19.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/big/X-n979-k58.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/big/X-n837-k142.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/small/A-n37-k5.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/small/P-n55-k15.vrp" />
+    <entry file="file://$PROJECT_DIR$/benchmark/E/E-n22-k4.vrp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark/E/E-n23-k3.vrp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark/E/E-n30-k3.vrp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark/E/E-n31-k7.vrp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="-741" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark/X/X-n106-k14.vrp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark/XXL/Leuven1.vrp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vrpjs/vrpjs.iml">
+    <entry file="file://$PROJECT_DIR$/benchmark/XXL/Ghent1.vrp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/benchmark/big/X-n153-k22.vrp">
+    <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/ProblemReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark/E/E-n13-k4.vrp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/benchmark/big/X-n979-k58.vrp">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/benchmark/A/A-n32-k5.vrp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1077" />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/benchmark/big/X-n749-k98.vrp">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/benchmark/B/B-n78-k10.vrp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2825" />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/benchmark/small/P-n101-k4.vrp">
+    <entry file="file://$PROJECT_DIR$/benchmark/CMT/Christofides_1.vrp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1818" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark/XXL/Antwerp1.vrp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/ProblemReader.java">
+    <entry file="file://$PROJECT_DIR$/benchmark/XXL/Brussels1.vrp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark/XXL/Antwerp2.vrp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark/XXL/Leuven2.vrp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        <state relative-caret-position="11229">
+          <caret line="591" column="12" selection-start-line="591" selection-start-column="12" selection-end-line="591" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/GreedySolver.java">
+    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/lang/Double.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="195">
+          <caret line="548" selection-start-line="548" selection-end-line="548" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/benchmark/X/X-n101-k25.vrp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        <state relative-caret-position="-3752" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark/Golden/Golden_1.vrp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/jsprit/example/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Customer.java">
+    <entry file="file://$PROJECT_DIR$/benchmark/Li/Li_21.vrp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-21288" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark/Golden/Golden_3.vrp">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/VRPLibReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="94" column="22" lean-forward="true" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
+        <state relative-caret-position="141">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3928#3929#0" expanded="true" />
+            <element signature="e#3952#3953#0" expanded="true" />
+            <element signature="e#4042#4043#0" expanded="true" />
+            <element signature="e#4066#4067#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark/Golden/Golden_1.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/CVRProblem.java">
+    <entry file="file://$PROJECT_DIR$/output/Li.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+        <state relative-caret-position="296">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/Solution.java">
+    <entry file="file://$PROJECT_DIR$/output/Golden.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1036">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#1537#1538#0" expanded="true" />
-            <element signature="e#1582#1583#0" expanded="true" />
-            <element signature="e#1501#1502#0" expanded="true" />
-            <element signature="e#1537#1538#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vrpjs/src/main/java/zzt/vrp/VRPSolver.java">
+    <entry file="file://$PROJECT_DIR$/output/X.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-1669" />
       </provider>
     </entry>
   </component>
@@ -845,7 +1027,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -865,7 +1046,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: org.apiguardian:apiguardian-api:1.0.0</last-edited>
+          <last-edited>Maven: com.graphhopper:jsprit:1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

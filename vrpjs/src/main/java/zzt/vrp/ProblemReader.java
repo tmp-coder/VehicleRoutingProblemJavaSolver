@@ -9,13 +9,9 @@ public interface ProblemReader {
 
     List<Customer> getCustomers();
 
-    default Customer getDepot(){
-        var customers = getCustomers();
-        for(var e : customers)
-            if(e.Demand==0)
-                return e;
+    Customer getDepot();
 
-        System.err.println("no depot");
-        return null;
-    }
+    int getDimension();
+
+    int getnoCustomers();
 }
